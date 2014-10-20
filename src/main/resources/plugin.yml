@@ -1,0 +1,6 @@
+name: ${project.name}
+main: net.daboross.bukkitdev.bedrocktoggle.BedrockTogglePlugin
+version: ${project.version}
+author: Dabo Ross
+description: ${project.description}
+url: ${project.url}
